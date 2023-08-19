@@ -12,7 +12,9 @@
 
 ###
 
-<p align="left">I'm Thomas from South Africa<br><br>- 🔭 I’m working as a Software Engineer<br>- 📚 I'm currently learning Go</p>
+<p align="left">
+  🚀 Crafting digital wonders with code and creativity! 🎩 Exploring the realms of Go, Typescript, and Angular, I'm on a mission to turn ideas into virtual realities. Join me in the magical journey of innovation and collaboration – let's conquer bugs and merge branches in style! ✨
+</p>
 
 ###
 
